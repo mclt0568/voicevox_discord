@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from bot_utils import check_admin, get_voice_client
-from discord import Message, FFmpegAudio, FFmpegPCMAudio
+from discord import Message, FFmpegPCMAudio
 from intension_context import IntensionContext
 from voicevox_wrapper import synthesis
 # from io import BytesIO
